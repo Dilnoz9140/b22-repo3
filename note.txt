@@ -4,7 +4,7 @@ Few thing happened:
 1.It automatically created new Remote Repo 
 under your GItHub.com account
 2.Made the connection with your local git repo
-3. Added all your commit to remote repo
+3. Added all your commits to remote repo
 
 
 Now our work will continue locally
